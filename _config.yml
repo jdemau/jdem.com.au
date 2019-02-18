@@ -3,7 +3,7 @@ title: Emma & Jaidev
 subtitle: 
 email: site@jdem.com.au
 description: Emma & Jaidev Vasudevans' site
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
 author: Emma & Jaidev Vasudevan
 street_address: 
