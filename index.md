@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, we're Emma and Jaidev'
+landing-title: Hi, we're Emma and Jaidev
 description: null
 image: null
 author: null
