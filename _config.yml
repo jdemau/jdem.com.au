@@ -1,6 +1,6 @@
 # site settings
 title: Emma & Jaidev
-subtitle: 
+subtitle: subtitle
 email: site@jdem.com.au
 description: Emma & Jaidev Vasudevans' site
 baseurl:  # the subpath of your site, e.g. /blog
@@ -15,7 +15,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 7
 
 # social settings
 500px_url:
