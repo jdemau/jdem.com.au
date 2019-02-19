@@ -1,8 +1,8 @@
 # site settings
 title: www.jdem.com.au
-subtitle:
+subtitle: # no site subtitle used
 email: site@jdem.com.au
-description:
+description: # no site description used
 baseurl:  # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
 author: Emma & Jaidev Vasudevan
