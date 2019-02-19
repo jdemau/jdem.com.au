@@ -1,8 +1,8 @@
 # site settings
 title: www.jdem.com.au
-subtitle: a couple from Brisbane, Australia
+subtitle:
 email: site@jdem.com.au
-description: Emma & Jaidev Vasudevans' site
+description: 
 baseurl:  # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
 author: Emma & Jaidev Vasudevan
