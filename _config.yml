@@ -13,22 +13,6 @@ zip_code:
 country: Australia
 phone:
 
-# collections
-collections:
-  output: true
-  em:
-    output: true
-    articles:
-      output: true
-    notes:
-      output: true
-  jd:
-    output: true
-    articles:
-      output: true
-    notes:
-      output: true
-
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 7
