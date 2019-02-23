@@ -18,29 +18,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 7
 
 # permalink style
-# permalink: /:year/:month/:day/:title:output_ext
-
-# collections
-collections:
-  jd:
-    output: true
-    permalink: /:collection/:year/:month/:day/:title:output_ext
-    notes:
-      output: true
-      permalink: jd/:collection/:year/:month/:day/:title:output_ext
-    articles:
-      output: true
-      permalink: jd/:collection/:year/:month/:day/:title:output_ext
-  em:
-    output: true
-    permalink: /:collection/:year/:month/:day/:title:output_ext
-    notes:
-      output: true
-      permalink: jd/:collection/:year/:month/:day/:title:output_ext
-    articles:
-      output: true
-      permalink: jd/:collection/:year/:month/:day/:title:output_ext
-
+permalink: :dir/:year/:month/:day/:title:output_ext
 
 # social settings
 500px_url:
