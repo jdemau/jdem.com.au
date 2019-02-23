@@ -19,7 +19,7 @@ tiles-count: 7
 
 # permalink style
 #permalink: :year/:month/:day/:title:output_ext
-permalink: :path
+permalink: :path/:title:output_ext
 
 # social settings
 500px_url:
