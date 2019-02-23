@@ -18,7 +18,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 7
 
 # permalink style
-permalink: /:year/:month/:day/:title:output_ext
+# permalink: /:year/:month/:day/:title:output_ext
 
 # social settings
 500px_url:
