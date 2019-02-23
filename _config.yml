@@ -14,7 +14,7 @@ country: Australia
 phone:
 
 # permalink
-permalink: :categories/:year/:month/:day/:title
+permalink: /:categories/:year/:month/:day/:title/
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
