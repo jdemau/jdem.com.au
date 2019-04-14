@@ -1,17 +1,24 @@
-<!DOCTYPE html>
-<!--
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
+---
+layout: default
+---
 
-{% include head.html %}
 
-<body>
+<section>
+    <div class="section-title">
+        <h2><span>{{ page.title }}</span></h2>
+    </div>
 
-    {% include header.html %} {{ content }} {% include footer.html %}
+    <div class="article-post">
+    {{content}}
+    </div>
 
-</body>
+    {% if page.comments == true %}
 
-</html>
+    <div id="comments" class="row mb-5">
+        <div class="col-md-8">
+            {% include disqus.html %}
+        </div>
+    </div>
+
+    {% endif %}
+</section>
