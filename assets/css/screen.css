@@ -85,6 +85,13 @@ section.recent-posts {
     margin-bottom: 0rem;
 }
 
+.banner-image {
+    min-height: 600px;
+    background-image: url('../images/banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 @media (min-width:576px) {
     .card-columns.listfeaturedtag {
         -webkit-column-count: 2;
@@ -433,11 +440,6 @@ blockquote {
         border-radius: 0;
     }
 
-    .banner-image {
-        background-image: url('../images/banner.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
 
     .listfeaturedtag .card {
         height: auto;
