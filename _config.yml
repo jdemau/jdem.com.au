@@ -1,12 +1,12 @@
 # Site
 name: "jdem.com.au"
 title: "Emma & Jaidev Vasudevan."
-description: ""
+description: "a couple from Brisbane, Australia."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
 include: ["_pages"]
-permalink: /:title/
+permalink: /:author/:title/
 
 # Authors
 authors:
