@@ -64,16 +64,3 @@ title: Home
     {% include pagination.html %}
 </span>
 </div>
-
-
-
-<!-- TEMP - list collections
-================================================== -->
-{% for collection in site.authors %}
-  <h2>Items from {{ collection.label }}</h2>
-  <ul>
-    {% for item in site[collection.label] %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
