@@ -307,8 +307,12 @@ span.post-read-more a:hover {
     margin-right: 5px;
 }
 
-.mainheading h1.sitetitle {
+.mediumnavigation h1.sitetitle {
     font-family: Righteous;
+    max-height: 30px;
+    margin-right: 5px;
+    padding: 1rem 0rem;
+
 }
 
 .mainheading h1.posttitle {
