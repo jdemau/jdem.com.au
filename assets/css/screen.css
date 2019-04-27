@@ -309,9 +309,9 @@ span.post-read-more a:hover {
 
 .mediumnavigation h1.sitetitle {
     font-family: Righteous;
-    max-height: 30px;
+    font-size: 2rem;
     margin-right: 5px;
-    padding: 1rem 0rem;
+    padding: 0rem 0rem;
 
 }
 
