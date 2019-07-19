@@ -1,25 +1,15 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: jdem.com.au
-email:
+email: jdem@jdem.com.au
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, we're Emma & Jaidev. a couple from Brisbane, Australia.
 # twitter_username: username
 # github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -55,36 +45,36 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-authors:
-  em:
-    name: Emma Vasudevan
-    display_name: Emma
-#    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: emma@jdem.com.au
-    web: https://www.jdem.com.au/emma
-#    twitter: https://twitter.com/wowthemesnet
-    description: "."
-  jd:
-    name: Jaidev Vasudevan
-    display_name: Jaidev
-#    avatar: 'assets/images/avatar.png'
-#    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: jaidev@jdem.com.au
-    web: https://www.jdem.com.au/jaidev
-#    twitter: https://twitter.com/wowthemesnet
-    description: ".."
+# authors:
+# em:
+#   name: Emma Vasudevan
+#   display_name: Emma
+# #    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+#   email: emma@jdem.com.au
+#   web: https://www.jdem.com.au/emma
+# #    twitter: https://twitter.com/wowthemesnet
+#   description: "."
+# jd:
+#   name: Jaidev Vasudevan
+#   display_name: Jaidev
+# #    avatar: 'assets/images/avatar.png'
+# #    gravatar: b1cc14991db7a456fcd761680bbc8f81
+#   email: jaidev@jdem.com.au
+#   web: https://www.jdem.com.au/jaidev
+# #    twitter: https://twitter.com/wowthemesnet
+#   description: ".."
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  # links:
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     url: "https://instagram.com/"
 
 defaults:
   # _posts
