@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.jpg
 excerpt: >
-  we're Emma & Jaidev.
+  We're Emma & Jaidev. </ br> A couple from Brisbane, Australia.
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
