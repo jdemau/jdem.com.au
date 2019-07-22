@@ -8,5 +8,6 @@
 @import "minimal-mistakes"; // main partials
 
 .page__hero--overlay {
-  min-height: 800px;
+  min-height: 400px;
+  background-position: top right;
 }
