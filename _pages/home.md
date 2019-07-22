@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.jpg
 excerpt: >
-  Hi, we're Emma & Jaidev. <br /> <br /><br /><br /><br /><br /><br />
+  Hi, we're Emma & Jaidev.
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
