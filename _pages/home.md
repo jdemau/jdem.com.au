@@ -22,6 +22,7 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
- ---
+
+---
 
 {% include feature_row %}
