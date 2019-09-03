@@ -3,7 +3,7 @@ main:
     url: /categories/
   - title: "topics"
     url: /tags/
-  - title: "about Emma"
+  - title: "about em"
     url: /about/
-  - title: "about Jaidev"
+  - title: "about jd"
     url: /about/
