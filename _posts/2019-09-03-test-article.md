@@ -4,5 +4,8 @@ title: 'test article '
 mf-post-status:
   - published
 slug: test-article
+author: jaidev
+categories:
+  - jd
 ---
 Test article
