@@ -28,7 +28,7 @@ feature_row-jd:
 {% include feature_row id="feature_row-em" type="left" %}
 {% include feature_row id="feature_row-jd" type="right" %}
 
-<h1> Recent Posts</h1>
+<h1><a href="/posts">Recent Posts</a></h1>
 
 {% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
