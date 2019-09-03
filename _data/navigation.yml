@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
+  - title: "Blog"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Topics"
+    url: /topics/
+  - title: "About Emma"
+    url: /about/
+  - title: "About Jaidev"
     url: /about/
