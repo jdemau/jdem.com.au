@@ -1,0 +1,26 @@
+jaidev:
+  name        : "Jaidev Vasudevan"
+  bio         : "Bio about jaidev."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jd@jdem.com.au"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://jdem.com.au"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/extravagantman"
+
+emma:
+  name        : "Emma Vasudevan"
+  bio         : "Bio about Emma"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:em@jdem.com.au"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://jdem.com.au"

@@ -1,0 +1,44 @@
+---
+title: Hi,
+layout: splash
+permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/banner.jpg
+excerpt: >
+  We're Emma and Jaidev. <br /> A couple from Brisbane, Australia.<br />
+feature_row-em:
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "Emma Vasudevan"
+    title: "Emma Vasudevan"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "About Emma"
+feature_row-jd:
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "Jaidev Vasudevan"
+    title: "Jaidev Vasudevan"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "About Jaidev"
+---
+
+{% include feature_row id="feature_row-em" type="left" %}
+{% include feature_row id="feature_row-jd" type="right" %}
+
+<h1> Recent Posts</h1>
+
+{% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% for year in postsByYear %}
+  <section id="{{ year.name }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ year.name }}</h2>
+    <div class="entries-{{ page.entries_layout | default: 'list' }}">
+      {% for post in year.items %}
+        {% include archive-single.html type=page.entries_layout %}
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section>
+{% endfor %}
