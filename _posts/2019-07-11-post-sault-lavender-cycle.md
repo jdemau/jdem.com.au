@@ -1,17 +1,22 @@
 ---
-title: "A night ride through the Sault Lavender Fields, France 2019"
+title: "An evening cycle through the Sault Lavender Fields, France 2019"
 author: jaidev
 categories:
   - albums
 tags:
   - cycle
-  - 19France
+  - 2019-France
 ---
 
-This post has been updated and should show a modified date if used in a layout.
+# Sault Lavender Fields, France
 
-Some text here
+An evening cycle through the lavender fields in Sault, France.
 
+Date: 2019 July 11th
+
+Distance: 10 km
+
+## Map of route
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
@@ -21,7 +26,6 @@ Some text here
    crossorigin=""></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.4.0/gpx.min.js"></script>
 
-   
 <div id="mapid" style="width: 80%; height: 400px;"></div>
 <script>
 
@@ -32,8 +36,12 @@ L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     subdomains: ['a','b','c']
 }).addTo( mymap );
 
-var gpx = 'https://www.jdem.com.au/assets/albums/2019-07-11-sault-night-ride/2019-07-11-sault-night-ride.gpx';
+var gpx = 'https://www.jdem.com.au/assets/albums/2019-07-11-post-sault-lavender-cycle/2019-07-11-post-sault-lavender-cycle.gpx';
 
 new L.GPX(gpx, {async: true}).on('loaded', function(e) { mymap.fitBounds(e.target.getBounds()); }).addTo(mymap);
 </script>
 
+## Photos
+
+
+## Notes
