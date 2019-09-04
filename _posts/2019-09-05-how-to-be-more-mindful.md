@@ -5,7 +5,7 @@ link: https://www.nytimes.com/guides/well/be-more-mindful-at-work
 mf-post-status:
   - published
 slug: how-to-be-more-mindful
-author:jaidev
-category: jaidev
+author: jaidev
+category: jd
 ---
 
