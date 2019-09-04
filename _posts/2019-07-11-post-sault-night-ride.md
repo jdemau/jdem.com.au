@@ -34,6 +34,6 @@ L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 var gpx = 'https://www.jdem.com.au/assets/albums/2019-07-11-sault-night-ride/2019-07-11-sault-night-ride.gpx';
 
-new L.GPX(gpx, {async: true}).on('loaded', function(e) { map.fitBounds(e.target.getBounds()); }).addTo(mymap);
+new L.GPX(gpx, {async: true}).on('loaded', function(e) { mymap.fitBounds(e.target.getBounds()); }).addTo(mymap);
 </script>
 
