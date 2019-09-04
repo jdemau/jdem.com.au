@@ -1,7 +1,7 @@
 jaidev:
   name        : "Jaidev Vasudevan"
-  bio         : "Bio about jaidev."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  bio         : "Engineer, husband and biostats student. Lifelong learner."
+  avatar      : "/assets/images/jv-head.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
