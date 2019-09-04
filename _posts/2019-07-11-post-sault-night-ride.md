@@ -22,7 +22,7 @@ Some text here
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.4.0/gpx.min.js"></script>
 
    
-<div id="mapid" style="width: 600px; height: 400px;"></div>
+<div id="mapid" style="width: 80%; height: 400px;"></div>
 <script>
 
 var mymap = L.map('mapid').setView([44.112664, 5.407952], 13);
