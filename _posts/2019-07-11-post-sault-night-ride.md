@@ -37,7 +37,7 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=p
 		id: 'mapbox.streets'
 	}).addTo(mymap);
 
-var gpx = 'https://www.jdem.com.au/assets/2019-07-11-sault-night-ride/2019-07-11-sault-night-ride.gpx'; // URL to your GPX file or the GPX itself
+var gpx = 'https://www.jdem.com.au/assets/albums/2019-07-11-sault-night-ride/2019-07-11-sault-night-ride.gpx'; // URL to your GPX file or the GPX itself
 
 new L.GPX(gpx, {async: true}).on('loaded', function(e) {
   map.fitBounds(e.target.getBounds());
