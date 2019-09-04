@@ -36,7 +36,11 @@ L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 var gpx = 'https://www.jdem.com.au/assets/albums/2019-07-11-post-sault-lavender-cycle/2019-07-11-post-sault-lavender-cycle.gpx';
 
-new L.GPX(gpx, {async: true}).on('loaded', function(e) { mymap.fitBounds(e.target.getBounds()); }).addTo(mymap);
+new L.GPX(gpx, {async: true,   marker_options: {
+    startIconUrl: '/assets/images/pin-icon-start.png',
+    endIconUrl: '/assets/images/pin-icon-end.png',
+    shadowUrl: '/assets/images/pin-shadow.png'
+  }}).on('loaded', function(e) { mymap.fitBounds(e.target.getBounds()); }).addTo(mymap);
 </script>
 
 ## Photos
