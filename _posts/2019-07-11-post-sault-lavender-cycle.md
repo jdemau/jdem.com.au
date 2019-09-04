@@ -8,8 +8,6 @@ tags:
   - 2019-France
 ---
 
-# Sault Lavender Fields, France
-
 An evening cycle through the lavender fields in Sault, France.
 
 Date: 2019 July 11th
