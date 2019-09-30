@@ -1,5 +1,5 @@
 backend:
-  name: gihub
+  name: github
   repo: thejdev/thejdev.github.io
   branch: master # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
