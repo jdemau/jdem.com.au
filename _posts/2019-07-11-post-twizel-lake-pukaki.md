@@ -8,7 +8,7 @@ tags:
   - 2019-NZ
 ---
 
-Alps2Ocean - Day 0 False start (Twizel to Lake Pukaki return)
+All ready to cycle day one of the Alps2Ocean trail, we were told that the helicopter was unable to fly due to poor conditions at Aoraki Mt Cook.
 
 Date: 2019 December 27th
 
