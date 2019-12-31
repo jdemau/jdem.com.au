@@ -1,6 +1,6 @@
 ---
 title: "Alps2Ocean - Day 0 False start (Twizel to Lake Pukaki return)"
-author: jaidev
+author: emma
 categories:
   - albums
 tags:
