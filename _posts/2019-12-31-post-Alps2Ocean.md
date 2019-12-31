@@ -76,8 +76,8 @@ new L.GPX(gpx, {async: true,   marker_options: {
 
 ### GPS Route
 <div id="mapid" style="width: 100%; height: 400px;"></div>
-<script>
 
+<script>
 var mymap = L.map('mapid').setView([44.112664, 5.407952], 13);
 
 L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -85,7 +85,7 @@ L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     subdomains: ['a','b','c']
 }).addTo( mymap );
 
-var gpx = 'https://www.jdem.com.au/assets/albums/2019-12-27_Day_0_Twizel_LakePukaki.gpx';
+var gpx = 'https://www.jdem.com.au/assets/albums/2019-12-31-post-Alps2Ocean/2019-12-27_Day_0_Twizel_LakePukaki.gpx';
 
 new L.GPX(gpx, {async: true,   marker_options: {
     startIconUrl: '/assets/images/pin-icon-start.png',
