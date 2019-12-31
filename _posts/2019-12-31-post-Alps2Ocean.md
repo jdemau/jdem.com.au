@@ -54,12 +54,12 @@ day1gallery:
     title: "Em takes the lead"
   - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-08.JPEG
     url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-08.jpg
-    alt: "Lupins by Lake Pukaki"
-    title: "Lupins by Lake Pukaki"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-09.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-09.JPEG
     alt: "Jd riding along the Pukaki flats"
     title: "Jd riding along the Pukaki flats"
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-09.JPEG
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-09.JPEG
+    alt: "Lupins by Lake Pukaki"
+    title: "Lupins by Lake Pukaki"
   - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-10.JPEG
     url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-10.JPEG
     alt: "Selfie at Lake Pukaki!"
