@@ -53,7 +53,7 @@ day1gallery:
     alt: "Em takes the lead"
     title: "Em takes the lead"
   - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-08.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-08.JPEG
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-08.jpg
     alt: "Lupins by Lake Pukaki"
     title: "Lupins by Lake Pukaki"
   - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-09.JPEG
@@ -69,7 +69,7 @@ day1gallery:
     alt: "Em at Lake Pukaki"
     title: "Em at Lake Pukaki"
   - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-12.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-12.JPEG
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-12.jpg
     alt: "Tekapo B Power Station and penstock"
     title: "Tekapo B Power Station and penstock"    
 
