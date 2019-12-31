@@ -43,9 +43,14 @@ new L.GPX(gpx, {async: true,   marker_options: {
   }}).on('loaded', function(e) { mymap.fitBounds(e.target.getBounds()); }).addTo(mymap);
 </script>
 
-## Route
+## Day 0 False start (Twizel to Lake Pukaki return)
 
+## Day 1 Mt Cook Village to Twizel
 
+## Day 2 Lake Ohau Lodge to Omarama
 
+## Day 3 Omarama to Kurow via Otematata
 
-## Notes
+## Day 4 Kurow to Duntroon
+
+## Day 5 Duntroon to Oamaru
