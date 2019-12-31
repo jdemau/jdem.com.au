@@ -149,6 +149,23 @@ new L.GPX(gpx, {async: true,   marker_options: {
 
 {% include gallery id="day1gallery" layout="half" caption="Photos from My Cook Village to Twizel." %}
 
+The weather wasa great this morning, as we took  a van transfer from Twizel to the Mt Cook Village, and cycled 6 kilometres to the Mt Cook Aiport. Our bikes were loaded into a crate, and shuttled across the Tasman (river) via helicopter (ridiculous, we know). We soon followed the bikes before commencing our journey on the other side of the  Tasman through the Mt Cook National Park.
+
+A few photos for Emma, and a few too many photos for Jaidev, we cycled a very bumpy and rocky 12 kilometres to 'Jollies Carpark''. Emma felt she was killing it, until a well placed rock got the better of her and her bike. She was down! And (luckily) her elbow took the brunt of the fall. A quick unclip by Jaidev, providing some expert medical care ('you should drink some water''), and we were back moving.
+
+The next 40 kilometres along Lake Pukaki were hard going, through a logging track, but the views were worth it. We enjoyed lunch by the lupins (and the bees), looking back over Lake Pukaki and Mt Cook.
+
+We passed the Tekapo B Power Station (JD: amazing!, Em: not so much), and we were soon back at where we were yesterday on Lake Pukaki.
+
+### Highlights
+
+- Trail riding together was an interesting experience - fun at times, but also hard work!
+- The helicopter (while a short ride) was a great way to see the Mt Cook National Park from the air.
+- 80 kilometres of scenic riding was something special.
+- The weather today was *fantastic* - sunny but cool.
+
+### GPS Route
+
 ## Day 2 Lake Ohau Lodge to Omarama
 
 ## Day 3 Omarama to Kurow via Otematata
