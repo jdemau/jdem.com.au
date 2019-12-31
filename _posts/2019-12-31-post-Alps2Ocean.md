@@ -52,7 +52,7 @@ day1gallery:
     url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-07.JPEG 
     alt: "Em takes the lead"
     title: "Em takes the lead"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-08.JPEG
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-08.jpg
     url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-08.jpg
     alt: "Jd riding along the Pukaki flats"
     title: "Jd riding along the Pukaki flats"
@@ -68,7 +68,7 @@ day1gallery:
     url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-11.JPEG 
     alt: "Em at Lake Pukaki"
     title: "Em at Lake Pukaki"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-12.JPEG
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-12.jpg
     url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-12.jpg
     alt: "Tekapo B Power Station and penstock"
     title: "Tekapo B Power Station and penstock"    
