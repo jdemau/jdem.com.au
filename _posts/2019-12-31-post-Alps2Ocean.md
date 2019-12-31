@@ -7,22 +7,18 @@ tags:
   - cycle
   - 2019-NZ
 day0gallery:
-  - url: /assets/albums/2019-12-31-post-Alps2Ocean/day0-1.JPEG
-    image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-1.JPEG
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/albums/2019-12-31-post-Alps2Ocean/day0-2.JPEG
-    image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-2.JPEG
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/albums/2019-12-31-post-Alps2Ocean/day0-3.JPEG
-    image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-3.JPEG
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: //assets/albums/2019-12-31-post-Alps2Ocean/day0-4.JPEG
-    image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-4.JPEG
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-1.JPEG
+    alt: "Jd riding along the Pukaki flats"
+    title: "Jd riding along the Pukaki flats"
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-2.JPEG
+    alt: "Em riding along the Pukaki flats"
+    title: "Em riding along the Pukaki flats"
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-3.JPEG
+    alt: "A muffin break at Lake Pukaki"
+    title: "A muffin break at Lake Pukaki"
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-4.JPEG
+    alt: "Jd and Em  at Lake Pukaki (windy!)"
+    title: "Jd and Em  at Lake Pukaki (windy!)"
 ---
 
 Our first and last blog post for 2019 - we promise to do better in 2020!
