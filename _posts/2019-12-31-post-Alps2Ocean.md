@@ -1,5 +1,5 @@
 ---
-title: "Alps2Ocean - Day 0 False start (Twizel to Lake Pukaki return)"
+title: "Alps2Ocean - a self guided tour in the South Island New Zealand"
 author: emma
 categories:
   - albums
@@ -25,9 +25,9 @@ day0gallery:
     title: "Image 4 title caption"
 ---
 
-All ready to cycle day one of the Alps2Ocean trail, we were told that the helicopter was unable to fly due to poor conditions at Aoraki Mt Cook.
+Our first and last blog post for 2019 - we promise to do better in 2020!
 
-Date: 2019 December 27th
+Date: 2019 December 27th to 2019 December 31st
 
 Distance: 23.4 km
 
