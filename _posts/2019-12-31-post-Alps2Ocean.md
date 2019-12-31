@@ -8,15 +8,19 @@ tags:
   - 2019-NZ
 day0gallery:
   - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-1.JPEG
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day0-1.JPEG
     alt: "Jd riding along the Pukaki flats"
     title: "Jd riding along the Pukaki flats"
   - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-2.JPEG
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day0-2.JPEG
     alt: "Em riding along the Pukaki flats"
     title: "Em riding along the Pukaki flats"
   - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-3.JPEG
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day0-3.JPEG 
     alt: "A muffin break at Lake Pukaki"
     title: "A muffin break at Lake Pukaki"
   - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-4.JPEG
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day0-4.JPEG
     alt: "Jd and Em  at Lake Pukaki (windy!)"
     title: "Jd and Em  at Lake Pukaki (windy!)"
 ---
@@ -60,7 +64,12 @@ new L.GPX(gpx, {async: true,   marker_options: {
 
 {% include gallery id="day0gallery" layout="half" caption="Photos from Twizel to Lake Pukaki return." %}
 
-  
+ We were off to a false start this morning as the helicopter flying over the tasman (river) was prevented from flying due to high winds and low cloud cover. We postponed the start of the tour by a day and cycled to Lake Pukaki instead.
+
+- Our second cycle ride since leaving France in July (seriously) had us wondering if we were cut out for the days ahead.
+- A much needed muffin break 10 kilometres in provided the much (not) needed sustenance for the 45 min cycle back.
+- Neither of us had ever seen lakes fed by glaciers, surrounded by mountains, and water was a beautiful blue colour (apparently due to [glacial flour](<https://en.wikipedia.org/wiki/Rock_flour>)).
+- Jd coined a new term for a phenomenon he had witnessed over the last few years: *'over-weathering: the process by which Emma reads too much into the weather forecasts for the days ahead, including visiting multiple different meteorological sources for the same locations'*. In this *single instance*, it turned that Emma's prediction of poor weather at Mt Cook for the day was correct.
 
 ## Day 1 Mt Cook Village to Twizel
 
