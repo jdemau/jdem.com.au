@@ -75,10 +75,10 @@ new L.GPX(gpx, {async: true,   marker_options: {
 - Jd coined a new term for a phenomenon he had witnessed over the last few years: *'over-weathering: the process by which Emma reads too much into the weather forecasts for the days ahead, including visiting multiple different meteorological sources for the same locations'*. In this *single instance*, it turned that Emma's prediction of poor weather at Mt Cook for the day was correct.
 
 ### GPS Route
-<div id="mapid" style="width: 100%; height: 400px;"></div>
+<div id="day0map" style="width: 100%; height: 400px;"></div>
 
 <script>
-var mymap = L.map('mapid').setView([44.112664, 5.407952], 13);
+var mymap = L.map('day0map').setView([-44.2599014,170.1042942], 13);
 
 L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
