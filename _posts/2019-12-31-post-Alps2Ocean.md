@@ -6,6 +6,23 @@ categories:
 tags:
   - cycle
   - 2019-NZ
+day0gallery:
+  - url: /assets/albums/2019-12-31-post-Alps2Ocean/day0-1.JPEG
+    image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-1.JPEG
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/albums/2019-12-31-post-Alps2Ocean/day0-2.JPEG
+    image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-2.JPEG
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/albums/2019-12-31-post-Alps2Ocean/day0-3.JPEG
+    image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-3.JPEG
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: //assets/albums/2019-12-31-post-Alps2Ocean/day0-4.JPEG
+    image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-4.JPEG
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
 ---
 
 All ready to cycle day one of the Alps2Ocean trail, we were told that the helicopter was unable to fly due to poor conditions at Aoraki Mt Cook.
@@ -44,6 +61,10 @@ new L.GPX(gpx, {async: true,   marker_options: {
 </script>
 
 ## Day 0 False start (Twizel to Lake Pukaki return)
+
+{% include gallery id="day0gallery" caption="Photos from Twizel to Lake Pukaki return." %}
+
+  
 
 ## Day 1 Mt Cook Village to Twizel
 
