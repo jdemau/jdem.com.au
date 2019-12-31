@@ -23,6 +23,24 @@ day0gallery:
     url:  /assets/albums/2019-12-31-post-Alps2Ocean/day0-4.JPEG
     alt: "Jd and Em  at Lake Pukaki (windy!)"
     title: "Jd and Em  at Lake Pukaki (windy!)"
+day1gallery:
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-01.JPEG
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-01.JPEG
+    alt: "Jd riding along the Pukaki flats"
+    title: "Jd riding along the Pukaki flats"
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-02.JPEG
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-02.JPEG
+    alt: "Em riding along the Pukaki flats"
+    title: "Em riding along the Pukaki flats"
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-03.JPEG
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-3.JPEG 
+    alt: "A muffin break at Lake Pukaki"
+    title: "A muffin break at Lake Pukaki"
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-04.JPEG
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-04.JPEG
+    alt: "Jd and Em  at Lake Pukaki (windy!)"
+    title: "Jd and Em  at Lake Pukaki (windy!)"
+        
 ---
 
 Our first and last blog post for 2019 - we promise to do better in 2020!
@@ -78,7 +96,7 @@ new L.GPX(gpx, {async: true,   marker_options: {
 <div id="day0map" style="width: 100%; height: 400px;"></div>
 
 <script>
-var mymap = L.map('day0map').setView([-44.2599014,170.1042942], 13);
+var day0map = L.map('day0map').setView([-44.2599014,170.1042942], 13);
 
 L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -91,11 +109,13 @@ new L.GPX(gpx, {async: true,   marker_options: {
     startIconUrl: '/assets/images/pin-icon-start.png',
     endIconUrl: '/assets/images/pin-icon-end.png',
     shadowUrl: '/assets/images/pin-shadow.png'
-  }}).on('loaded', function(e) { mymap.fitBounds(e.target.getBounds()); }).addTo(mymap);
+  }}).on('loaded', function(e) { day0map.fitBounds(e.target.getBounds()); }).addTo(day0map);
 </script>
 
 
 ## Day 1 Mt Cook Village to Twizel
+
+{% include gallery id="day1gallery" layout="half" caption="Photos from My Cook Village to Twizel." %}
 
 ## Day 2 Lake Ohau Lodge to Omarama
 
