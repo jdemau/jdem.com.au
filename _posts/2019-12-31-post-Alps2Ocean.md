@@ -62,7 +62,7 @@ new L.GPX(gpx, {async: true,   marker_options: {
 
 ## Day 0 False start (Twizel to Lake Pukaki return)
 
-{% include gallery id="day0gallery" caption="Photos from Twizel to Lake Pukaki return." %}
+{% include gallery id="day0gallery" layout="half" caption="Photos from Twizel to Lake Pukaki return." %}
 
   
 
