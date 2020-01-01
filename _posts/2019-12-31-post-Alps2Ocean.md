@@ -91,7 +91,6 @@ Alps 2 Ocean official website: <https://www.alps2ocean.com/>
    integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
    crossorigin=""></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.4.0/gpx.min.js"></script>
-
 <div id="mapid" style="width: 80%; height: 400px;"></div>
 <script>
 
@@ -126,14 +125,13 @@ new L.GPX(gpx, {async: true,   marker_options: {
 
 ### GPS Route
 <div id="day0map" style="width: 100%; height: 400px;"></div>
-
 <script>
 var day0map = L.map('day0map').setView([-44.2599014,170.1042942], 13);
 
 L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     subdomains: ['a','b','c']
-}).addTo( mymap );
+}).addTo( day0map );
 
 var gpx = 'https://www.jdem.com.au/assets/albums/2019-12-31-post-Alps2Ocean/2019-12-27_Day_0_Twizel_LakePukaki.gpx';
 
@@ -151,7 +149,7 @@ new L.GPX(gpx, {async: true,   marker_options: {
 
 The weather wasa great this morning, as we took  a van transfer from Twizel to the Mt Cook Village, and cycled 6 kilometres to the Mt Cook Aiport. Our bikes were loaded into a crate, and shuttled across the Tasman (river) via helicopter (ridiculous, we know). We soon followed the bikes before commencing our journey on the other side of the  Tasman through the Mt Cook National Park.
 
-A few photos for Emma, and a few too many photos for Jaidev, we cycled a very bumpy and rocky 12 kilometres to 'Jollies Carpark''. Emma felt she was killing it, until a well placed rock got the better of her and her bike. She was down! And (luckily) her elbow took the brunt of the fall. A quick unclip by Jaidev, providing some expert medical care ('you should drink some water''), and we were back moving.
+A few photos for Emma, and a few too many photos for Jaidev, we cycled a very bumpy and rocky 12 kilometres to 'Jollies Carpark'. Emma felt she was killing it, until a well placed rock got the better of her and her bike. She was down! And (luckily) her elbow took the brunt of the fall. A quick unclip by Jaidev, providing some expert medical care ('you should drink some water'), and we were back moving.
 
 The next 40 kilometres along Lake Pukaki were hard going, through a logging track, but the views were worth it. We enjoyed lunch by the lupins (and the bees), looking back over Lake Pukaki and Mt Cook.
 
