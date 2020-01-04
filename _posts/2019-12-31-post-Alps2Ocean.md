@@ -7,65 +7,65 @@ tags:
   - cycle
   - 2019-NZ
 day0gallery:
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-1.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day0-1.JPEG
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-1.jpg
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day0-1.jpg
     alt: "Jd riding along the Pukaki flats"
     title: "Jd riding along the Pukaki flats"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-2.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day0-2.JPEG
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-2.jpg
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day0-2.jpg
     alt: "Em riding along the Pukaki flats"
     title: "Em riding along the Pukaki flats"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-3.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day0-3.JPEG 
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-3.jpg
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day0-3.jpg 
     alt: "A muffin break at Lake Pukaki"
     title: "A muffin break at Lake Pukaki"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-4.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day0-4.JPEG
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day0-4.jpg
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day0-4.jpg
     alt: "Jd and Em  at Lake Pukaki (windy!)"
     title: "Jd and Em  at Lake Pukaki (windy!)"
 day1gallery:
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-01.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-01.JPEG
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-01.jpg
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-01.jpg
     alt: "Jd getting ready for our first (official) riding day"
     title: "Jd getting ready for our first (official) riding day"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-02.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-02.JPEG
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-02.jpg
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-02.jpg
     alt: "The start of the Alps to Ocean A20"
     title: "The start of the Alps to Ocean A20"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-03.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-3.JPEG 
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-03.jpg
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-3.jpg 
     alt: "Emma on the path between Mt Cook Village and Mt Cook Airport"
     title: "Emma on the path between Mt Cook Village and Mt Cook Airport"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-04.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-04.JPEG
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-04.jpg
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-04.jpg
     alt: "The helicopter taking our bikes away"
     title: "The helicopter taking our bikes away"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-05.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-05.JPEG
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-05.jpg
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-05.jpg
     alt: "The pilot unloads our crate of bikes"
     title: "The pilot unloads our crate of bikes"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-06.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-06.JPEG
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-06.jpg
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-06.jpg
     alt: "Jd and Em as we start our ride"
     title: "Jd and Em as we start our ride"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-07.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-07.JPEG 
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-07.jpg
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-07.jpg 
     alt: "Em takes the lead"
     title: "Em takes the lead"
   - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-08.jpg
     url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-08.jpg
     alt: "Jd riding along the Pukaki flats"
     title: "Jd riding along the Pukaki flats"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-09.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-09.JPEG
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-09.jpg
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-09.jpg
     alt: "Lupins by Lake Pukaki"
     title: "Lupins by Lake Pukaki"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-10.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-10.JPEG
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-10.jpg
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-10.jpg
     alt: "Selfie at Lake Pukaki!"
     title: "Selfie at Lake Pukaki!"
-  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-11.JPEG
-    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-11.JPEG 
+  - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-11.jpg
+    url:  /assets/albums/2019-12-31-post-Alps2Ocean/day1-11.jpg 
     alt: "Em at Lake Pukaki"
     title: "Em at Lake Pukaki"
   - image_path: /assets/albums/2019-12-31-post-Alps2Ocean/day1-12.jpg
