@@ -13,7 +13,7 @@ It turns out that the easiest way to do this is by setting up an ssh config file
 
 ```
 # ~/.ssh/config
-Host your.hostname.com
+Host my.hostname.com
     Hostname hostname.com
     User git
     IdentityFile ~/.ssh/key_to_use
@@ -52,7 +52,9 @@ $ eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/filename1
 ```
 
-I am now able to connect to my ssh server (using git) via: `git clone git@your.hostname.com:path/to/gitfile.git`.
+I am now able to connect to my ssh server (using git) via: 
+
+`git clone git@your.hostname.com:path/to/gitfile.git`.
 
 
 
