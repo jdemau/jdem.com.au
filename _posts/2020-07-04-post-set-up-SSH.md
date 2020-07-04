@@ -1,5 +1,11 @@
 ---
 published: false
+title: How to set up SSH to connect on a different port (or a different key)
+author: jaidev
+categories:
+  - jd
+tags:
+  - linux
 ---
 ## How to set up SSH to connect on a different port (or a different key)
 
