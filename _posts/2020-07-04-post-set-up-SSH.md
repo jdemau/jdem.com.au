@@ -9,7 +9,7 @@ published: true
 ---
 I was looking for a way to connect via SSH to a git server, on a different port (other than 22), and using a different identity file ([see below](#Different-SSH-identity-files)).
 
-It turns out that the easiest way to do this is by setting up an ssh config file (see `man ssh_config`), at `~/.ssh/config`. Following the directions [here, by C. Pino](https://web.archive.org/web/20191219052807/https://medium.com/@czarpino/how-to-tell-git-which-ssh-key-to-use-c8574fb243fd), the ssh_config file should include:
+It turns out that the easiest way to do this is by setting up an ssh config file (see `man ssh_config`), at `~/.ssh/config`. Following the directions [here, by C. Pino](https://web.archive.org/web/20191219052807/https://medium.com/@czarpino/how-to-tell-git-which-ssh-key-to-use-c8574fb243fd), I included in the the ssh config file:
 
 ```
 # ~/.ssh/config
@@ -19,7 +19,7 @@ Host your.hostname.com
     IdentityFile ~/.ssh/key_to_use
 ```
 
-If you see the error: `Bad owner or permissions on /home/jd/.ssh/config`, ensure you have rw only access for the user (from the [serverfault.com post here](https://serverfault.com/questions/253313/ssh-returns-bad-owner-or-permissions-on-ssh-config)):
+If you see the error: `Bad owner or permissions on /home/jd/.ssh/config`, ensure the config file has `rw` only access for the user (hint from the [serverfault.com post here](https://serverfault.com/questions/253313/ssh-returns-bad-owner-or-permissions-on-ssh-config)):
 
 ```
 $ chown $USER ~/.ssh/config
@@ -44,7 +44,7 @@ At the prompt, type a secure passphrase. For more information, see "Working with
 > Enter same passphrase again: [Type passphrase again]
 ```
 
-Add the keypair to the ssh-agent:
+I added the keypair to the ssh-agent, and made sure that the correct keys are referenced in the ssh_config file:
 
 ```
 $ eval "$(ssh-agent -s)"
@@ -52,4 +52,8 @@ $ eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/filename1
 ```
 
-Now, ensure that the correct keys are referenced in the ssh_config file.
+I am now able to connect to my ssh server (using git) via: `git clone git@your.hostname.com:path/to/gitfile.git`.
+
+
+
+
