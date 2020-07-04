@@ -16,6 +16,7 @@ It turns out that the easiest way to do this is by setting up an ssh config file
 Host my.hostname.com
     Hostname hostname.com
     User git
+    Port 55
     IdentityFile ~/.ssh/key_to_use
 ```
 
@@ -52,9 +53,9 @@ $ eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/filename1
 ```
 
-I am now able to connect to my ssh server (using git) via: 
+I am now able to connect to my ssh server, on a port other than 22, using a specific identity file, (for git) via: 
 
-`git clone git@your.hostname.com:path/to/gitfile.git`.
+`git clone git@your.hostname.com:path/to/gitfile.git`
 
 
 
