@@ -30,7 +30,8 @@ $ chmod 600 ~/.ssh/config
 
 I decided to go ahead and create different key pairs for each of the online services I use. Using the Github documentation ([here](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)), the method I used for each key was:
 
-```$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+```
+$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 > Generating public/private rsa key pair.
 
 When you're prompted to "Enter a file in which to save the key," press Enter. This accepts the default file location.
