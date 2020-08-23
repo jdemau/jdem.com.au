@@ -82,8 +82,8 @@ layout: default
   }
   // Else, try csv/Options.csv and csv/Chapters.csv
   else {
-    $.get('/assets/storymap/Options.csv', function(options) {
-      $.get('/assets/storymap/Chapters.csv', function(chapters) {
+    $.get("{{ site.baseurl }}/{{ page.storymap_directory }}/Options.csv", function(options) {
+      $.get("{{ site.baseurl }}/{{ page.storymap_directory }}/Chapters.csv", function(chapters) {
         initMap(
           $.csv.toObjects(options),
           $.csv.toObjects(chapters)
