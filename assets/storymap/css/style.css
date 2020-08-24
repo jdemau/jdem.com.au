@@ -1,3 +1,6 @@
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
 body {
   padding: 0px;
   margin: 0px;
@@ -20,6 +23,8 @@ body {
   width: 100vw;
   height: calc(100vh - 203px);
   z-index: 80;
+  background-color:#eeeeee;
+  padding: 20px;
 }
 
 #contents {
@@ -47,13 +52,11 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
   width: 100vw;
   z-index: 100;
   margin: 0;
   padding: 0;
   visibility: hidden;
-  font-weight: bold;
   text-align: center;
 }
 
@@ -61,8 +64,6 @@ body {
   /* margin + padding = chapterContainerMargin in script.js */
   /* Important for scrolling! */
   margin: 50px 0 0 0;
-  padding: 20px 0 0 0;
-  text-align: center;
 }
 
 .chapter-container img {
@@ -98,7 +99,6 @@ body {
 .chapter-header {
   display: block;
   text-align: center;
-  font-size: 1.2em;
   padding: 0 5px;
 }
 
@@ -112,10 +112,10 @@ a.source:visited {
 }
 
 .description {
-  margin: 20px;
+/*  margin: 20px;
   text-align: left;
   font-size: 11pt;
-  padding: 20px;
+  padding: 20px;*/
 }
 
 .in-focus {
@@ -142,35 +142,3 @@ a.source:visited {
   background-position: -72px 0 !important;
 }
 
-/* Storymap logo image above the title */
-#logo {
-  height: 30px;
-  line-height: 30px;
-  text-align: center;
-  padding: 10px;
-  max-width: 100%;
-}
-
-#logo img {
-  max-height: 100%;
-  max-width: 100%;
-  vertical-align: middle;
-}
-
-#header {
-  padding: 5px 0;
-  text-align: center;
-  color: #333;
-}
-
-/* Storymap title & subtitle */
-h1 {
-  margin: 0;
-  font-size: 1.35em;
-}
-
-h2 {
-  margin: 0;
-  font-size: 1.0em;
-  font-weight: normal;
-}
