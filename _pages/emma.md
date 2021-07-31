@@ -1,4 +1,7 @@
-## Emma Vasudevan
+---
+permalink: /emma/
+title: "About Emma Vasudevan"
+---
 
 I am a consultant econometrician (MAppEmet, University of Queensland), with a background in civil engineering. I have a keen interest in developing and increasing social good by identifying and fostering opportunities with benefits to both communities and organisations.
 
