@@ -1,8 +1,8 @@
 ---
-title: "An evening cycle through the Sault Lavender Fields, France 2019"
+title: An evening cycle through the Sault Lavender Fields, France 2019
 author: jaidev
 categories:
-  - albums
+  - album
 tags:
   - cycle
   - 2019-France
